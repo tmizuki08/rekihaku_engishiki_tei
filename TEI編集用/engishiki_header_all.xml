@@ -709,6 +709,7 @@
                 <ref xml:id="京博本訂正書">京博本訂正書</ref>
                 <ref xml:id="京博本朱挿入書">京博本朱挿入書</ref>
                 <ref xml:id="京博本朱脚書">京博本朱脚書</ref>
+                <ref xml:id="京博本左朱訂正書">京博本左朱訂正書</ref>
               </listRef>
             </witness>
             <witness xml:id="慶長本"><abbr>慶長本</abbr>：国立公文書館所蔵慶長写本（特102-8） <listRef>
