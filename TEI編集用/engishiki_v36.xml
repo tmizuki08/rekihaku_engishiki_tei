@@ -1717,7 +1717,7 @@
             </app>
             <app from="#app3610110107" to="#app3610110107e">
               <lem wit="#土本 #九本 #近本 #京博本朱挿入書 #慶長本 #梵本">斗</lem>
-              <note>京博本朱挿入書「斗」</note>
+              <note>京博本朱挿入書「<seg rendition="#shu">斗</seg>」</note>
             </app>
             <app from="#app3610110108" to="#app3610110108e">
               <lem wit="#京博本朱訂正書 #慶長本 #梵本">盆</lem>
@@ -1766,9 +1766,9 @@
             <app from="#app3610120103" to="#app3610120103e">
               <lem wit="#土本 #九本 #近本 #京博本 #慶長本 #梵本">一百領</lem>
               <note place="頭">土本朱頭書「<seg rendition="#shu">兵庫式稱五十領、此式誤歟、何者、彼寮例申請五十領料、</seg>」</note>
-              <note place="頭">近本頭書「<seg rendition="#shu">兵庫式稱五十領、此式誤歟、何者、彼寮例申請五十領料、</seg>」</note>
+              <note place="頭">近本頭書「兵庫式稱五十領、此式誤歟、何者、彼寮例申請五十領料、」</note>
               <note place="頭">京博本朱頭書「<seg rendition="#shu">兵庫式稱五十領、此式誤歟、何者、彼寮例申請五十領料、</seg>」</note>
-              <note place="頭">梵本朱頭書「兵庫式稱五十領、此式誤歟、何者、彼寮例申請五十領料、」</note>
+              <note place="頭">梵本朱頭書「<seg rendition="#shu">兵庫式稱五十領、此式誤歟、何者、彼寮例申請五十領料、</seg>」</note>
             </app>
             <app from="#app3610120105" to="#app3610120105e">
               <lem wit="#土本 #九本 #近本 #京博本 #梵本">筥</lem>
